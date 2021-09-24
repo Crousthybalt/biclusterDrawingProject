@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related Work}{}% 2
+\BOOKMARK [1][-]{section.3}{Preliminaries}{}% 3
+\BOOKMARK [1][-]{section.4}{Our Objective Function}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Computational Complexity.}{section.4}% 5
+\BOOKMARK [1][-]{section.5}{The Algorithm}{}% 6
+\BOOKMARK [2][-]{subsection.5.1}{Pre-Processing.}{section.5}% 7
+\BOOKMARK [2][-]{subsection.5.2}{Computing the Block Ordering.}{section.5}% 8
+\BOOKMARK [2][-]{subsection.5.3}{Post-Processing.}{section.5}% 9
+\BOOKMARK [1][-]{section.6}{Experiments}{}% 10
+\BOOKMARK [2][-]{subsection.6.1}{Datasets, Clustering and Visualization Algorithms.}{section.6}% 11
+\BOOKMARK [2][-]{subsection.6.2}{Measuring the Quality of the Visualizations.}{section.6}% 12
+\BOOKMARK [2][-]{subsection.6.3}{Evaluation on Synthetic Data.}{section.6}% 13
+\BOOKMARK [2][-]{subsection.6.4}{Comparison With Seriation Algorithms.}{section.6}% 14
+\BOOKMARK [2][-]{subsection.6.5}{Case Study: Visualizing Algorithm Results.}{section.6}% 15
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 16
+\BOOKMARK [1][-]{section.8}{Other Tasks}{}% 17
